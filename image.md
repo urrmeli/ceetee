@@ -1,5 +1,6 @@
 ---
 title: Puschelblume in Südafrika
+layout: default
 ---
 
 ## Der Blick aus dem Fenster 
