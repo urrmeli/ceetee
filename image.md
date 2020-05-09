@@ -1,9 +1,4 @@
----
-title: Puschelblume in Südafrika
-layout: default
----
-
-## Der Blick aus dem Fenster 
+## Puschelblume in Südafrika
 
 ![Dies ist ein Beispielbild.](assets/images/puschelblume.jpg)
 
