@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Hello World
 ## Hello Sub World
 
